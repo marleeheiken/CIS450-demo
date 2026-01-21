@@ -4,8 +4,9 @@
 This repo illustrates the best practice READ.ME file generation.
 
 ## Projects
-This repo illustrates the best practice READ.ME file generation.
+Open CV Image Processing demo.
 
 ## Resources
-![Open CV Logo](/resources/OpenCV_logo.webp)
+<img src="resources/OpenCV_logo.webp" alt="Open CV Logo" width="150"/>
+
 [Open-CV](https://opencv.org/)
