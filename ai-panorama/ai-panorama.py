@@ -14,7 +14,6 @@ Run:
   python ai-panorama.py --pano-conf 0.1 --resize 0.85 images/*.png
 """
 
-import re
 import sys
 import argparse
 from pathlib import Path
