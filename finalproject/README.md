@@ -174,3 +174,16 @@ Tested adjusting edge threshold value (100, 200, 300)    ✅ Pass
 ![edge threshold of 300](./media/300.png)
 
 
+## File Structure
+```
+finalproject/
+├── template/
+│   ├── app.py  
+│   ├── Dockerfile  
+│   └── requirements.txt
+├── media/
+│   └── testing images
+├── requirements.txt
+└── README.md
+```
+
