@@ -26,6 +26,7 @@ import cv2
 import socket
 import glob
 
+
 # ---------------------------------------------------------------------------
 # App setup
 # ---------------------------------------------------------------------------
@@ -321,22 +322,22 @@ HTML = """
         </div>
 
         <div>
-            <p class="section-label">Sample Images</p>
-                <div class="form-card" style="gap:12px;">
+          <p class="section-label">Sample Images</p>
+              <div class="form-card" style="gap:12px;">
 
-                <a href="/sample-images/image1.png" download>
-                    <button type="button" class="secondary">Download Image 1</button>
-                </a>
+              <a href="/sample-images/image1.png" download>
+                  <button type="button" class="secondary">Download Image 1</button>
+              </a>
 
-                <a href="/sample-images/image2.png" download>
-                    <button type="button" class="secondary">Download Image 2</button>
-                </a>
+              <a href="/sample-images/image2.png" download>
+                  <button type="button" class="secondary">Download Image 2</button>
+              </a>
 
-                <a href="/sample-images/image3.png" download>
-                    <button type="button" class="secondary">Download Image 3</button>
-                </a>
-
-                </div>
+              <a href="/sample-images/image3.png" download>
+                  <button type="button" class="secondary">Download Image 3</button>
+              </a>
+          </div>
+          
         </div>
     </div>
 </header>
